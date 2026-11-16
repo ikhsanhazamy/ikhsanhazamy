@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Frontend Developer specializing in clean, fast, and intuitive web and mobile interfaces. Experienced in turning Figma designs into production-ready products, while actively building expertise in backend and cloud engineering.
 
@@ -20,7 +20,7 @@ Frontend Developer specializing in clean, fast, and intuitive web and mobile int
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend & Mobile**
 
@@ -52,7 +52,7 @@ Frontend Developer specializing in clean, fast, and intuitive web and mobile int
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ikhsanhazamy?style=for-the-badge&logo=github&label=Followers" alt="Followers">
@@ -66,7 +66,7 @@ Frontend Developer specializing in clean, fast, and intuitive web and mobile int
 
 ---
 
-## 📌 Proyek Pilihan
+## Featured Projects
 
 
 | Project | Description | Tech Stack |
