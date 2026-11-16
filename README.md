@@ -9,14 +9,14 @@
 
 ---
 
-## 👋 Tentang Saya
+## 👋 About Me
 
-Saya Frontend Developer yang fokus membangun antarmuka web dan mobile yang rapi, cepat, dan mudah digunakan. Saya terbiasa bekerja dari desain (Figma) sampai menjadi produk yang berjalan, dan sedang memperdalam sisi backend serta cloud.
+Frontend Developer specializing in clean, fast, and intuitive web and mobile interfaces. Experienced in turning Figma designs into production-ready products, while actively building expertise in backend and cloud engineering.
 
-- 🔭 Sedang mengerjakan: **[Campus Impact Hub]**
-- 🌱 Sedang belajar: **[Data Saince, Deep Learning, NLP]**
-- 💼 Terbuka untuk: **kolaborasi, freelance, dan kesempatan full-time**
-- 📫 Kontak: [ikhsanhazamy@gmail.com](mailto:ikhsanhazamy@gmail.com)
+- 🔭 Currently working on: **[Campus Impact Hub]**
+- 🌱 Currently learning: **Data Science, Deep Learning, and NLP**
+- 💼 Open to: **collaborations, freelance projects, and full-time opportunities**
+- 📫 Reach me at: [ikhsanhazamy@gmail.com](mailto:ikhsanhazamy@gmail.com)
 
 ---
 
@@ -69,11 +69,11 @@ Saya Frontend Developer yang fokus membangun antarmuka web dan mobile yang rapi,
 ## 📌 Proyek Pilihan
 
 
-| Proyek | Deskripsi | Teknologi |
+| Project | Description | Tech Stack |
 | ------ | --------- | --------- |
-| [QCare App](https://github.com/ikhsanhazamy/nama-proyek-1) | Satu kalimat: apa masalah yang diselesaikan | Kotlin, SQLite |
-| [Fatayat NU](https://github.com/ikhsanhazamy/nama-proyek-2) | Satu kalimat: apa masalah yang diselesaikan | React Native, Laravel, Docker |
-| [Campus Impact Hub](https://github.com/ikhsanhazamy/nama-proyek-3) | Satu kalimat: apa masalah yang diselesaikan | Java Script, Nect Js, React, SQLite  |
+| [QCare App](https://github.com/ikhsanhazamy/nama-proyek-1) | A mobile-based healthcare application built with Android Studio, designed to provide accessible healthcare services through a simple, user-friendly, and intuitive interface. | Kotlin, SQLite |
+| [Fatayat NU](https://github.com/ikhsanhazamy/nama-proyek-2) |  A frontend web application developed to support Fatayat NU organizational activities, featuring an informative interface for showcasing organizational profiles, programs, activities, and community engagement | React, Laravel, Vite, Tailwind CSS, Docker |
+| [Campus Impact Hub](https://github.com/ikhsanhazamy/nama-proyek-3) | A web-based platform designed to showcase and manage campus community impact initiatives, connecting students, organizations, and social projects through an integrated digital platform. | Java Script, Nect Js, React, SQLite  |
 
 ---
 
