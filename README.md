@@ -2,9 +2,9 @@
 <h3 align="center">Frontend Developer · Indonesia</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME-KAMU"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ikhsanhazamy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ikhsanhazamy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.instagram.com/USERNAME-KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/iitszamy_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
@@ -13,8 +13,8 @@
 
 Saya Frontend Developer yang fokus membangun antarmuka web dan mobile yang rapi, cepat, dan mudah digunakan. Saya terbiasa bekerja dari desain (Figma) sampai menjadi produk yang berjalan, dan sedang memperdalam sisi backend serta cloud.
 
-- 🔭 Sedang mengerjakan: **[isi proyek yang sedang kamu kerjakan]**
-- 🌱 Sedang belajar: **[misal: TypeScript, Next.js, testing]**
+- 🔭 Sedang mengerjakan: **[Campus Impact Hub]**
+- 🌱 Sedang belajar: **[Data Saince, Deep Learning, NLP]**
 - 💼 Terbuka untuk: **kolaborasi, freelance, dan kesempatan full-time**
 - 📫 Kontak: [ikhsanhazamy@gmail.com](mailto:ikhsanhazamy@gmail.com)
 
@@ -68,13 +68,12 @@ Saya Frontend Developer yang fokus membangun antarmuka web dan mobile yang rapi,
 
 ## 📌 Proyek Pilihan
 
-> Pin 4–6 repository terbaikmu di profil, lalu ringkas di sini.
 
 | Proyek | Deskripsi | Teknologi |
 | ------ | --------- | --------- |
-| [nama-proyek-1](https://github.com/ikhsanhazamy/nama-proyek-1) | Satu kalimat: apa masalah yang diselesaikan | React, CSS |
-| [nama-proyek-2](https://github.com/ikhsanhazamy/nama-proyek-2) | Satu kalimat: apa masalah yang diselesaikan | Flutter, Firebase |
-| [nama-proyek-3](https://github.com/ikhsanhazamy/nama-proyek-3) | Satu kalimat: apa masalah yang diselesaikan | Laravel, MySQL |
+| [QCare App](https://github.com/ikhsanhazamy/nama-proyek-1) | Satu kalimat: apa masalah yang diselesaikan | Kotlin, SQLite |
+| [Fatayat NU](https://github.com/ikhsanhazamy/nama-proyek-2) | Satu kalimat: apa masalah yang diselesaikan | React Native, Laravel, Docker |
+| [Campus Impact Hub](https://github.com/ikhsanhazamy/nama-proyek-3) | Satu kalimat: apa masalah yang diselesaikan | Java Script, Nect Js, React, SQLite  |
 
 ---
 
