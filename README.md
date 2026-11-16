@@ -72,7 +72,7 @@ Frontend Developer specializing in clean, fast, and intuitive web and mobile int
 | Project | Description | Tech Stack |
 | ------ | --------- | --------- |
 | [QCare App](https://github.com/ikhsanhazamy/nama-proyek-1) | A mobile-based healthcare application built with Android Studio, designed to provide accessible healthcare services through a simple, user-friendly, and intuitive interface. | Kotlin, SQLite |
-| [Fatayat NU](https://github.com/ikhsanhazamy/nama-proyek-2) |  A frontend web application developed to support Fatayat NU organizational activities, featuring an informative interface for showcasing organizational profiles, programs, activities, and community engagement | React, Laravel, Vite, Tailwind CSS, Docker |
+| [Fatayat NU](https://github.com/ikhsanhazamy/nama-proyek-2) |  A frontend web application developed to support Fatayat NU organizational activities, featuring an informative interface for showcasing organizational profiles, programs, activities, and community engagement | React, Laravel, Vite, Tailwind CSS, Docker, PHP |
 | [Campus Impact Hub](https://github.com/ikhsanhazamy/nama-proyek-3) | A web-based platform designed to showcase and manage campus community impact initiatives, connecting students, organizations, and social projects through an integrated digital platform. | Java Script, Next Js, React, SQLite  |
 
 ---
