@@ -55,8 +55,13 @@ Saya Frontend Developer yang fokus membangun antarmuka web dan mobile yang rapi,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ikhsanhazamy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanhazamy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://img.shields.io/github/followers/ikhsanhazamy?style=for-the-badge&logo=github&label=Followers" alt="Followers">
+  <img src="https://img.shields.io/github/stars/ikhsanhazamy?style=for-the-badge&logo=github&label=Stars" alt="Stars">
+  <img src="https://img.shields.io/badge/Public_Repos-29-blue?style=for-the-badge&logo=github" alt="Repos">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ikhsanhazamy&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
