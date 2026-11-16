@@ -13,7 +13,7 @@
 
 Frontend Developer specializing in clean, fast, and intuitive web and mobile interfaces. Experienced in turning Figma designs into production-ready products, while actively building expertise in backend and cloud engineering.
 
-- 🔭 Currently working on: **[Campus Impact Hub]**
+- 🔭 Currently working on: **Campus Impact Hub**
 - 🌱 Currently learning: **Data Science, Deep Learning, and NLP**
 - 💼 Open to: **collaborations, freelance projects, and full-time opportunities**
 - 📫 Reach me at: [ikhsanhazamy@gmail.com](mailto:ikhsanhazamy@gmail.com)
